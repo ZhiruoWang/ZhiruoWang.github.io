@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [[CV]](https://drive.google.com/file/d/1TIoXVZtJ9JcCLrL6k2ANGfwvG4M2gy6g/view?usp=sharing) to view my latest cv.
+Click [[CV]](https://drive.google.com/file/d/1vrCZP9jHY43_RoA3n4z9pD-mN3jBsStU/view?usp=sharing) to view my latest cv.
 
 Education
 ======
