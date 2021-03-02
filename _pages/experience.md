@@ -12,6 +12,14 @@ redirect_from:
 
 ## Assistant Researcher
 ### Microsoft Research Asia (Sep 2020 - Present)
+Study and implement the representative works on Semantic Parsing and Program Synthesis
+* Experiment under different levels of supervision (weak \& full), using various Reinforcement Learning strategies
+* study the Synchronous Context-Free Grammar to generate (canonical) utterances from logical forms (programs)
+
+Investigate top-performing pre-training methods (e.g. TAPAS and TaBERT) for Question Answering on Relational Tables
+* Experiment and compare with different table corpus, model structures, tuning strategies, and pre-processing details
+* Give a presentation (open to all MSRA interns) of the pre-training architectures leveraged upon real-world tables
+
 Proposed a unified structure-aware pre-training architecture for generally structured tables
 * Devised a novel bi-dimensional coordinate tree to encode both the spatial and hierarchical information in tables
 * Adapted the attention strategy upon bi-tree distance, boost up&down stream accuray by reducing visible scopes
