@@ -12,8 +12,13 @@ redirect_from:
 
 ## Assistant Researcher
 ### Microsoft Research Asia (Sep 2020 - Present)
+Propose a novel dataset for Table Question Answering on Hierarchical Matrix Tables
+* decompose QA into a series of sub-tasks: table understanding, table-text aligment, cell selection, numerical calculation, etc.
+* define and extract the semantic & structural components for table understanding, from ground truths and empirical heuristics
+* analyze the distribution of question types and numerical operators, further guide the procedure of logical form refinement
+
 Study and implement the representative works on Semantic Parsing and Program Synthesis
-* Experiment under different levels of supervision (weak \& full), using various Reinforcement Learning strategies
+* Experiment under different levels of supervision (weak & full), using various Reinforcement Learning strategies
 * study the Synchronous Context-Free Grammar to generate (canonical) utterances from logical forms (programs)
 
 Investigate top-performing pre-training methods (e.g. TAPAS and TaBERT) for Question Answering on Relational Tables
