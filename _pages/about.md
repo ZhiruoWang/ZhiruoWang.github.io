@@ -18,6 +18,6 @@ I have received a Bachelor's degree in Mathematics from Beijing Normal Universit
 Next, I will continue to persue a graduate degree at the School of Computer Science (Language Technology Institute) of Carnegie Mellon University.
 Despite my current interest on Machine Learning techniques, my diverse explorations span from finance, genetic engineering, neuroscience, to many more. 
 
-Click [HERE](https://drive.google.com/file/d/1uAbuI7euShcbOf572XqJI186Evw10OCk/view?usp=sharing) to get my latest CV.
+Click [HERE](https://drive.google.com/file/d/1vrCZP9jHY43_RoA3n4z9pD-mN3jBsStU/view?usp=sharing) to get my latest CV.
 
 Feel free to reach out if you have any questions :)
